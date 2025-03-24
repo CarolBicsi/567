@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.1.1">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1050" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="ab4J2Q8Bm98FkFcb3cxl-55" value="监控大屏" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1456" y="1611" width="124" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ab4J2Q8Bm98FkFcb3cxl-56" value="������ 设计原则：&#xa;    - 高效性：分布式存储+并行计算&#xa;    - 安全性：AES-256加密传输" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ab4J2Q8Bm98FkFcb3cxl-56" value="������ 设计原则：&#xa;    - 高效性：分布式存储+并行计算&#xa;    - 安全性：AES-256加密传输" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1830" y="871" width="260" height="126" as="geometry" />
         </mxCell>
         <mxCell id="ab4J2Q8Bm98FkFcb3cxl-57" value="ETL抽取" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.36;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ab4J2Q8Bm98FkFcb3cxl-42" target="ab4J2Q8Bm98FkFcb3cxl-46">
